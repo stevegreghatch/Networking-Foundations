@@ -1,4 +1,16 @@
-# Transmission Control Protocol vs User Datagram Protocol
+## Transmission Control Protocol (TCP)
+
+Examples:
+
+FTP, HTTP, HTTPS, SMTP
+
+## User Datagram Protocol (UDP)
+
+Examples:
+
+DNS, SYSLOG
+
+## Transmission Control Protocol vs User Datagram Protocol
 
 | TCP                    | UDP                                      |
 | ---------------------- | ---------------------------------------- |
