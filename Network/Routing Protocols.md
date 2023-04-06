@@ -1,5 +1,3 @@
-# Routing Protocols
-
 ## Routing Information Protocol (RIP)
 * *__distance-vector routing protocol__* that is used for small-scale internal routing
 * sends the complete routing table to the neighboring router out all active interfaces every 30 seconds
