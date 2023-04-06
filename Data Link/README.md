@@ -6,7 +6,7 @@
 
 ### Trunking
   * used to extend a VLAN infrastructure past a single switch
-  * allows the VLAN information to be prepended to the switched frame as it traverses the switches
+  * allows the VLAN information to be prepended to the switched frame as it traverses switches
 
 #### Protocols
 ##### Inter-Switch Link (ISL)
