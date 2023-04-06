@@ -1,6 +1,3 @@
-# Introduction to Networking
-This repo has been created to organize information related to networking foundations
-
 ### Open Systems Interconnection (OSI) Model
 
 | Number | Layer        | Description                                    | Protocol Data Unit | Example                                                               |
