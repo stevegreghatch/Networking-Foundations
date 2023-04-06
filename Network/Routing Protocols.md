@@ -1,5 +1,3 @@
-# Administrative Distance Overview
-
 # Routing Protocols
 
 ## Routing Information Protocol (RIP)
