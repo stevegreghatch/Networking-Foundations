@@ -1,5 +1,4 @@
 # Administrative Distance Overview
-![image](https://github.optum.com/storage/user/59362/files/904bfd89-0dd7-4731-bebd-ece3f46896ce)
 
 # Routing Protocols
 
@@ -24,8 +23,6 @@
 * default hop count of 100 and a maximum of 255
 * supports classless routing (subnets), variable-length subnet masking (VLSM), discontiguous networks, and summarization of networks
 * By default, routing decisions use a combination of bandwidth and delay called a composite metric
-
-![c02f030_0](https://github.optum.com/storage/user/59362/files/8c7f6a47-2a53-42dc-ab01-21579cdeb4f4)
 
 ## Border Gateway Protocol (BGP)
 * *__path-vector routing protocol__* used on the Internet for routing
